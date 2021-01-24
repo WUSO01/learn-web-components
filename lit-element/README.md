@@ -1,0 +1,1 @@
+跟着[lit-element](https://lit-element.polymer-project.org/)造lit-element
